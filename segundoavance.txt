@@ -1,0 +1,10 @@
+<INICIO>
+1. Planificación
+2. UX/UI
+2.1 Evalucación de plaificación
+3. Desarrollo
+3.1 Desarrollo del primer despligue
+3.2 Desarrollo del segundo despliegue
+4. Despliegue
+5. Soporte
+<FIN>
