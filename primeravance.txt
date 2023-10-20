@@ -1,6 +1,7 @@
 <INICIO>
 1. Planificación
 2. UX/UI
+2.1 Evalucación de plaificación
 3. Desarrollo
 4. Despliegue
 5. Soporte
