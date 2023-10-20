@@ -6,5 +6,7 @@
 3.1 Desarrollo del primer despligue
 3.2 Desarrollo del segundo despliegue
 4. Despliegue
+4.1 Despliegue 1
+4.2 Despliegue 2
 5. Soporte
 <FIN>
